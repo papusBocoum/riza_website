@@ -1,0 +1,11 @@
+{
+  "name": "site_riza",
+  "version": "1.0.0",
+  "description": "Site internet for Chinaland company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bocoum Ousmane",
+  "license": "ISC"
+}
